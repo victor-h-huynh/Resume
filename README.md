@@ -1,1 +1,3 @@
-# DO NOT FORGET TO ADD A README!
+To view my website progress:
+
+https://victor-h-huynh.github.io/
