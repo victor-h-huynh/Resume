@@ -1,6 +1,10 @@
 /* Profile Image */
 
-.image {
+.profile{
   width: 25%;
   border-radius: 5%;
+}
+
+.primary {
+  margin: 20px auto;
 }
