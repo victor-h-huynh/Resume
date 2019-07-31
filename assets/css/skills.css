@@ -7,8 +7,10 @@
 
 ol {
   display: flex;
+  justify-content: space-evenly;
 }
 
-ul {
-  display: flex;
+.skillsName {
+  margin-top: 8vh;
+  margin-right: 1vw;
 }
