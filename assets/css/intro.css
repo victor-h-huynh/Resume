@@ -9,18 +9,14 @@
   margin: 20px auto;
 }
 
-.inner {
+/* .inner {
   padding: 20px;
-}
+} */
 
 .contentBox {
   border-bottom: solid 1px black;
 }
 
 h2, h3, p {
-  text-align: center;
-}
-
-.icons {
   text-align: center;
 }
