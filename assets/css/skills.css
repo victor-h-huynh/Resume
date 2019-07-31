@@ -1,6 +1,30 @@
 .skillsIcon {
   width: 17%;
-  margin: 20px auto;
+  margin-top: 1vw;
+}
+
+.skillsName {
+  margin-top: 8vh;
+  margin-right: 1vw;
+}
+
+.skillsIconContainer {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.skillsTextContainer {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.skillsText {
+  margin-left: 1vw;
+  margin-top: 1vh;
+}
+
+.htmlIcon {
+  margin-left: 1.6vw;
 }
 
 ol {
@@ -8,7 +32,6 @@ ol {
   justify-content: space-evenly;
 }
 
-.skillsName {
-  margin-top: 8vh;
-  margin-right: 1vw;
-}
+/* .content {
+  border: 1px solid black;
+} */
