@@ -34,3 +34,12 @@
 .sixthTextRow {
   margin-left: 0.5vw;
 }
+
+#two {
+  background-color: #F2F3F2;
+}
+
+.features {
+  background-color: #E6E6E6;
+  border-radius: 2%;
+}

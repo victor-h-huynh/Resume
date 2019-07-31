@@ -1,3 +1,24 @@
 .image {
   margin: 30px;
+  border: 2px solid black;
+}
+
+#one {
+  background-color: white;
+}
+
+.projectSection1 {
+  background-color: #F2F3F2;
+}
+
+.projectSection2 {
+  background-color: #E6E6E6 !important;
+}
+
+.projectSection3 {
+  background-color: #F2F3F2 !important;
+}
+
+.projectSection4 {
+  background-color: #E6E6E6;
 }
