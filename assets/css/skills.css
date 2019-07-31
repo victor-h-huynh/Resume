@@ -1,13 +1,3 @@
-.skillsIcon {
-  width: 17%;
-  margin-top: 1vw;
-}
-
-.skillsName {
-  margin-top: 8vh;
-  margin-right: 1vw;
-}
-
 .skillsIconContainer {
   display: flex;
   justify-content: space-evenly;
@@ -18,20 +8,29 @@
   justify-content: space-evenly;
 }
 
+.skillsIcon {
+  width: 17%;
+  margin-top: 1vw;
+}
+
+.skillsName {
+  margin-top: 8vh;
+  margin-right: 1vw;
+}
+
 .skillsText {
   margin-left: 1vw;
   margin-top: 1vh;
 }
 
-.htmlIcon {
-  margin-left: 1.6vw;
+.firstIconRow {
+  margin-left: 0.6vw;
 }
 
-ol {
-  display: flex;
-  justify-content: space-evenly;
+.fifthTextRow {
+  margin-left: 2vw;
 }
 
-/* .content {
-  border: 1px solid black;
-} */
+.sixthTextRow {
+  margin-left: 0.5vw;
+}
