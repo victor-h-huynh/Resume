@@ -3,6 +3,7 @@
 .profile{
   width: 25%;
   border-radius: 5%;
+  border: solid 2px black;
 }
 
 .primary {
