@@ -7,4 +7,6 @@ Personal website that displays my most recent projects, current tech-stack and h
 
 !["Screenshot of personal website"](https://github.com/victor-h-huynh/victor-h-huynh.github.io/blob/master/docs/website1.png?raw=true)
 
+!["Screenshot of personal website"](https://github.com/victor-h-huynh/victor-h-huynh.github.io/blob/master/docs/website3.png?raw=true)
+
 !["Screenshot of personal website"](https://github.com/victor-h-huynh/victor-h-huynh.github.io/blob/master/docs/website2.png?raw=true)
